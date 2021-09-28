@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+
+
+html{
+    background-color: white;
+}
+
+
+nav{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+}
+
+nav p{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+p{
+    height: 800px;
+    width: 100%;
+    background-color: gray;
+}
+
+
+
+footer{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+}
+h5{
+    text-align: center;
+    font-size: 25px;
+}
